@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="995deadd-8d35-47e4-98dd-31c29d21ca24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/dominio/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/ui/Create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/ui/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/ui/Retrieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/dominio/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/dominio/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/dominio/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/ui/Create.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/newtonpaiva/ui/Create.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +28,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -57,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Delete">
+  <component name="RunManager" selected="Application.Create">
     <configuration name="Create" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.newtonpaiva.ui.Create" />
       <module name="ecommerce" />
@@ -97,11 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Create" />
         <item itemvalue="Application.Delete" />
         <item itemvalue="Application.Retrieve" />
-        <item itemvalue="Application.Create" />
       </list>
     </recent_temporary>
   </component>
@@ -115,5 +113,16 @@
       <updated>1685142777282</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -18,7 +18,10 @@ public class Delete {
         em.remove(cat);
         em.getTransaction().commit();
 
-        factory.close();
+        //em.persist(c);
+
+        //em.getTransaction();
         em.close();
+        factory.close();
     }
 }
